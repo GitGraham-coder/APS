@@ -1,0 +1,33 @@
+========== HEADER ==========
+.nav__logo
+APS
+
+.nav__link
+Home
+
+About
+
+Members
+
+Membership
+
+Competitions
+
+Activities
+
+Contact
+
+
+========== HOME ==========
+.home__title
+Welcome To ALBA Photographic Society
+
+.home__description
+We wish you a warm welcome to our Society website. ALBA P.S. is a small but progressive and independent Scottish photographic society in Wishaw that aims to provide a forum for photographers to enjoy their photography within a friendly club structure.  We warmly welcome all who share an interest in photography – from  a seasoned professional or an absolute beginner. 
+
+We are based in Wishaw in North Lanarkshire  with weekly meetings throughout our season, which runs from September through to April.  The culmination of each season is normally our Exhibition at Chatelherault. We have a full mixed programme of  lectures, practical evenings, members' nights, competitions and photographic outings that help and encourage each member to develop their own interests, and regular club competitions to challenge and improve your skills.  Following the COVID pandemic, most of our meetings are now hybrid meetings, starting at 7.30pm.  Members may attend in the hall in Wishaw or on Zoom.  
+
+To learn more about the Society, see our About APS page. 
+
+ .button
+ Join APS
